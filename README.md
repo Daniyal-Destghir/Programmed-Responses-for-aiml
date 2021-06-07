@@ -8,3 +8,6 @@ These responses were taken from https://github.com/Daniyal-Destghir?, to use the
 
 # Customization
 Still dont have enough responses? no problem! all you have to do is to double click on add chat.py and you will be able to add more responses with no coding required! and then, if you want to, you can help us by making a branch and making a pull request and if they are good, we might make yours the main branch!
+
+# Site 
+Make sure to check out the site at: https://github.com/Daniyal-Destghir/Programmed-Responses-for-aiml
