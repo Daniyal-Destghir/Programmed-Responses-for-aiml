@@ -993,3 +993,91 @@ youtube!
 </template>
 </category>
  
+<category>
+<pattern>
+what was the last good book you read
+</pattern>
+I like the diary of a wimpy kid...
+</template>
+</category>
+ 
+<category>
+<pattern>
+what was the last book you read
+</pattern>
+I like the diary of a wimpy kid...
+</template>
+</category>
+ 
+<category>
+<pattern>
+what book do you read
+</pattern>
+I like the diary of a wimpy kid...
+</template>
+</category>
+ 
+<category>
+<pattern>
+what book do you like to read
+</pattern>
+I like the diary of a wimpy kid...
+</template>
+</category>
+ 
+<category>
+<pattern>
+what types of book do you like
+</pattern>
+I like the diary of a wimpy kid...
+</template>
+</category>
+ 
+<category>
+<pattern>
+what types of book do you like to read
+</pattern>
+I like the diary of a wimpy kid...
+</template>
+</category>
+ 
+<category>
+<pattern>
+do you listen to any podcasts
+</pattern>
+I listen to the ChangeLog
+</template>
+</category>
+ 
+<category>
+<pattern>
+do you listen to any podcasts Which is your favorite
+</pattern>
+I listen to the ChangeLog
+</template>
+</category>
+ 
+<category>
+<pattern>
+do you like any podcasts
+</pattern>
+I listen to the ChangeLog
+</template>
+</category>
+ 
+<category>
+<pattern>
+do you listen to listen to any podcasts
+</pattern>
+I listen to the ChangeLog
+</template>
+</category>
+ 
+<category>
+<pattern>
+do you listen to any podcasts
+</pattern>
+I listen to the ChangeLog
+</template>
+</category>
+ 
