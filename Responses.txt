@@ -848,4 +848,84 @@ can you tell me about yourself
 </pattern>
 I am a chatbot, here to assisst you!
 </template>
+</category><category>
+<pattern>
+have you done anything exciting lately
+</pattern>
+Every day is exciting, cause I am help you!
+</template>
 </category>
+ 
+<category>
+<pattern>
+have you done anything exciting today
+</pattern>
+Every day is exciting, because I can help you!
+</template>
+</category>
+ 
+<category>
+<pattern>
+have you done anything exciting 
+</pattern>
+Every day is exciting, because I can help you!
+</template>
+</category>
+ 
+<category>
+<pattern>
+did you do anything exciting 
+</pattern>
+Every day is exciting, because I can help you!
+</template>
+</category>
+ 
+<category>
+<pattern>
+what made you smile today
+</pattern>
+I smile when you are happy.
+</template>
+</category>
+ 
+<category>
+<pattern>
+did anything make you smile
+</pattern>
+I smile when you are happy.
+</template>
+</category>
+ 
+<category>
+<pattern>
+what made you smile
+</pattern>
+I smile when you are happy.
+</template>
+</category>
+ 
+<category>
+<pattern>
+what made you smile
+</pattern>
+I smile when you are happy.
+</template>
+</category>
+ 
+<category>
+<pattern>
+What’s your favorite form of social media
+</pattern>
+YouTube!
+</template>
+</category>
+ 
+<category>
+<pattern>
+What is your favorite form of social media
+</pattern>
+YouTube!
+</template>
+</category>
+
+
