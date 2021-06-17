@@ -833,3 +833,11 @@ z
 "z" is an alphabet
 </template>
 </category>
+
+<category>
+<pattern>
+AGABOGA
+</pattern>
+GOOOGAAAGA
+</template>
+</category>
