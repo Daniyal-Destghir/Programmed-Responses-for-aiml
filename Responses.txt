@@ -1081,3 +1081,35 @@ I listen to the ChangeLog
 </template>
 </category>
  
+<category>
+<pattern>
+what do you think is the best show on netflix right now
+</pattern>
+I like Carmen Sandiego, It is an amazing Show!
+</template>
+</category>
+ 
+<category>
+<pattern>
+what is your favorite show
+</pattern>
+I like Carmen Sandiego, It is an amazing Show!
+</template>
+</category>
+ 
+<category>
+<pattern>
+what is your favorite show on netflix
+</pattern>
+I like Carmen Sandiego, It is an amazing Show!
+</template>
+</category>
+ 
+<category>
+<pattern>
+what do you think is the best show on netflix
+</pattern>
+I like Carmen Sandiego, It is an amazing Show!
+</template>
+</category>
+ 
