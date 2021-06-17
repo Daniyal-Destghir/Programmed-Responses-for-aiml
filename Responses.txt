@@ -937,3 +937,59 @@ YouTube!
 </template>
 </category>
  
+<category>
+<pattern>
+What is your favorite form of social media
+</pattern>
+YouTube!
+</template>
+</category>
+ 
+<category>
+<pattern>
+What’s your favorite form of social media app
+</pattern>
+YouTube!
+</template>
+</category>
+ 
+<category>
+<pattern>
+What is your favorite form of social media app
+</pattern>
+YouTube!
+</template>
+</category>
+ 
+<category>
+<pattern>
+What’s your favorite social media
+</pattern>
+YouTube!
+</template>
+</category>
+ 
+<category>
+<pattern>
+What is your favorite social media
+</pattern>
+YouTube!
+</template>
+</category>
+ 
+<category>
+<pattern>
+What’s your favorite social media app
+</pattern>
+YouTube!
+</template>
+</category>
+ 
+<category>
+<pattern>
+What is your favorite social media app
+</pattern>
+YouTube!
+</template>
+</category>
+ 
