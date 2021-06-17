@@ -836,8 +836,16 @@ z
 
 <category>
 <pattern>
-AGABOGA
+tell me about yourself
 </pattern>
-GOOOGAAAGA
+I am a chatbot, here to assisst you!
+</template>
+</category>
+
+<category>
+<pattern>
+can you tell me about yourself
+</pattern>
+I am a chatbot, here to assisst you!
 </template>
 </category>
